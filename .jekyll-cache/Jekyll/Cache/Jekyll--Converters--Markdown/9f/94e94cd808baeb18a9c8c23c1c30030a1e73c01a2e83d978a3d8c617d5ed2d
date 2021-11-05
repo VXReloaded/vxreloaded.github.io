@@ -1,0 +1,12 @@
+I" <p style="text-align:right; padding-left:30%;"><i>"You might not realise this, but hacking is bad [...] hacking is like breaking into somebody's house [...] it's okay to be into computers though."</i> <br />—A couple of clinical psychologists (c. 2011)</p>
+
+<p>Following in the tradition of VX communities, both classical and contemporary, such as that of <a href="https://vxug.fakedoma.in/archive/VxHeaven/index.html">VX Heaven</a>, <a href="https://vx-underground.org">VX Underground</a> and <a href="https://maldev101.github.io/">MalDev</a>, <em>VX Reloaded</em> aims to contribute to the documentation, archiving, and potential revival, of the VX scene’s golden age. This site contains some of the amateurish <em>virri</em> by <a href="https://github.com/Alekseyyy">Aleksey</a> and also aims to archive the works of other malware developers.</p>
+
+<p>Some persons may say that malware is “bad.” I will respond to that sentiment with the following question posed by <a href="https://vxug.fakedoma.in/archive/VxHeaven/index.html">VX Heaven (n.d.)</a> when confronted with persons who voiced similiar concerns: <em>“is ignorance a defense?”</em> I interpret this as a non-rhethorical question, and as an ex-philosophy undergrad, I invite anyone who thinks that malware is inherently “bad” to think about that.</p>
+
+<h1 id="featured-projects">Featured projects</h1>
+
+<ul>
+  <li><a href="https://github.com/VXReloaded/python-replicator">Python Replicator</a>: A simple Python replication script targeting Linux (with a pro-BLM message ofc ;-)</li>
+</ul>
+:ET

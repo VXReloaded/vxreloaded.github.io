@@ -12,8 +12,8 @@ layout: default
 
 Following in the tradition of VX communities, both classical and contemporary, such as that of [VX Heaven](https://vxug.fakedoma.in/archive/VxHeaven/index.html), [VX Underground](https://vx-underground.org) and [MalDev](https://maldev101.github.io/), _VX Reloaded_ aims to contribute to the documentation, archiving, and potential revival, of the VX scene's golden age. This site contains some of the amateurish _virri_ by [Aleksey](https://github.com/Alekseyyy) and also aims to archive the works of other malware developers.
 
-Some may say that malware is dangerous. I will respond to that sentiment with the following question posed [VX Heaven (n.d.\)](https://vxug.fakedoma.in/archive/VxHeaven/index.html): _"is ignorance a defense?"_ I interpret this as a non-rhethorical question, and as an ex-philosophy undergrad, I invite anyone who thinks that malware is inherently "dangerous" to think about that.
+Some persons may say that malware is "bad." I will respond to that sentiment with the following question posed by [VX Heaven (n.d.)](https://vxug.fakedoma.in/archive/VxHeaven/index.html) when confronted with persons who voiced similiar concerns: _"is ignorance a defense?"_ I interpret this as a non-rhethorical question, and as an ex-philosophy undergrad, I invite anyone who thinks that malware is inherently "bad" to think about that.
 
 # Featured projects
 
-* [Python Replicator](https://github.com/VXReloaded/python-replicator): A simple Python replication script.
+* [Python Replicator](https://github.com/VXReloaded/python-replicator): A simple Python replication script targeting Linux (with a pro-BLM message ofc ;-)
