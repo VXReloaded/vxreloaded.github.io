@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{% for cat in site.data.library.master %}
+  <details>
+    <summary>{{cat.cat}}</summary>
+    <ul>
+    {% for res in cat.payload %}
+      <li>{{res.name}}</li>
+    {% endfor %}
+    </ul>
+  </details>
+{% endfor %}

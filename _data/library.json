@@ -1,0 +1,19 @@
+{
+	"master":[
+		{
+			"cat":"Rootkits", 
+			"payload": [
+				{ "name":"<b>[BOOK]</b> Hoglund, G., & Butler, J. (2006). <i>Rootkits: Subverting the Windows kernel</i>. Addison-Wesley."}
+			]
+		},
+		{
+			"cat":"Other virii Websites (fun, not profit)", 
+			"payload": [
+				{ "name":"VX Heaven (archive): <a href=\"https://vxug.fakedoma.in/archive/VxHeaven/lib/index.html\">https://vxug.fakedoma.in/archive/VxHeaven/lib/index.html</a>" },
+				{ "name":"VX Underground: <a href=\"https://vx-underground.org/\">https://vx-underground.org</a>"},
+				{ "name":"MalDev: <a href=\"https://maldev101.github.io/\">https://maldev101.github.io</a>" }
+			]
+		}	
+	]
+}
+
