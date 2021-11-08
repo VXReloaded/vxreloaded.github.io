@@ -9,7 +9,13 @@ description: "A collection of readings related to the VX scene, virii, botnets, 
     <summary>{{cat.cat}}</summary>
     <ul>
     {% for res in cat.payload %}
-      <li>{{res.name}}</li>
+      <li>
+        {% if res.link %}
+          <a href="{{res.link}}">{{res.name}}</a>
+        {% else %} 
+          {{res.name}}
+        {% endif %}
+        </li>
     {% endfor %}
     </ul>
   </details>

@@ -1,13 +1,28 @@
 {
 	"master":[
 		{
-			"cat":"Rootkits", 
+			"cat":"GitHub: Original or mirrored VX stuff posted onto GitHub",
+			"payload": [
+				{ "name":"CuteVirusCollection (by @MinhasKamal)",
+				  "link":"https://github.com/MinhasKamal/CuteVirusCollection"
+				}
+			]
+		},
+		{
+			"cat":"News: reports re. VX and virii, minus the dumbed-down, mainstream horseshit ;-)",
+			"payload": [
+				{ "name":"Goodin, D. (9 Apr., 2021). <i>Windows and Linux devices are under attack by a new cryptomining worm</i>. Ars Technica. Retrieved on 8 Nov., 2021.",
+				 "link":"https://arstechnica.com/gadgets/2021/04/windows-and-linux-devices-are-under-attack-by-a-new-cryptomining-worm/"}
+			]
+		},
+		{
+			"cat":"Rootkits: all about malware that subverts the OS through patching", 
 			"payload": [
 				{ "name":"<b>[BOOK]</b> Hoglund, G., & Butler, J. (2006). <i>Rootkits: Subverting the Windows kernel</i>. Addison-Wesley."}
 			]
 		},
 		{
-			"cat":"Other virii Websites (fun, not profit)", 
+			"cat":"Other virii Websites (for fun, not profit)", 
 			"payload": [
 				{ "name":"VX Heaven (archive): <a href=\"https://vxug.fakedoma.in/archive/VxHeaven/lib/index.html\">https://vxug.fakedoma.in/archive/VxHeaven/lib/index.html</a>" },
 				{ "name":"VX Underground: <a href=\"https://vx-underground.org/\">https://vx-underground.org</a>"},
